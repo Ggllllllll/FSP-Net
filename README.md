@@ -26,5 +26,5 @@ python Train.py
 If you find this repo useful for your research, please consider citing the paper as follows:
 
 ```
-
+The paper has not yet been accepted.
 ```
